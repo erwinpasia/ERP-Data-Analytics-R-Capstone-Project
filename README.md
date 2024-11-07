@@ -1,6 +1,6 @@
 # [Google Data Analytics Professional Certificate's Projects](https://www.credly.com/badges/06abf21b-b15c-4cc1-ba73-f9b5c75c0071) - COMPLETED!
 
-The **Google Data Analytics Professional Certificate** is an 8-course program designed to equip learners with the essential skills required for entry-level data analysis roles. This program is part of the Google Career Certificates offered through Coursera and focuses on practical, hands-on learning to prepare students for real-world data analytics tasks. Below is a detailed technical overview of the certificate, similar to how the IBM Data Science Professional Certificate is structured.
+The **Google Data Analytics Professional Certificate** is an 8-course program designed to equip learners with the essential skills required for entry-level data analysis roles. This program is part of the Google Career Certificates offered through Coursera and focuses on practical, hands-on learning to prepare students for real-world data analytics tasks. Below is a detailed technical overview of the certificate;
 
 ## Project Overview
 
